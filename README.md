@@ -2,7 +2,7 @@
 
 ![Category](https://upload-images.jianshu.io/upload_images/8283020-ebf7d06a341a4ef0.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-> 最近开发新项目, 需要搭一个框架, 在写常用**Category**时候, 发现之前写的比较乱,且不够完善,  这次特意总结了下,并且丰富了category库, 框架搭好了,有时间了专门写一篇文章来总结和分享下.
+> 最近开发新项目, 需要搭一个框架, 在写常用**Category**时候, 发现之前写的比较乱,且不够完善,  这次特意总结了下,并且丰富了category库, 框架搭好了,有时间了专门写一篇文章来总结和分享下.,如果对您有所帮助的话,麻烦给个**star**喔!
 
 - ### UIView
 可获取和设置View的x y 宽 高上 下 左 右 及中心点
